@@ -1,4 +1,16 @@
+# Check Live Demo at https://aiprompts-tan.vercel.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Screenshot
+### Landing page
+![image](https://github.com/DOCTOR29/project_nextjs/assets/86110344/e741b9d5-01d8-4f93-9c88-66eb83d88537)
+### Profile page
+![image](https://github.com/DOCTOR29/project_nextjs/assets/86110344/d0d084d8-d582-45f9-ab54-8d87018b77ec)
+### Create Prompt page
+![image](https://github.com/DOCTOR29/project_nextjs/assets/86110344/54f118c5-e17c-4601-a38f-a43cf34b9782)
+### Edit Prompt page
+![image](https://github.com/DOCTOR29/project_nextjs/assets/86110344/4cce8754-c53e-43f5-937d-d7e0654f4dd1)
+
 
 ## Getting Started
 
